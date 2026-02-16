@@ -67,3 +67,5 @@ coverage
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+
+package-lock.json
